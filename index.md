@@ -59,7 +59,11 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
+<hr/>
 
+<h2 id="registration">Registration</h2>
+<p> Please register <a href="https://forms.gle/jWZDU1kx22dRLaUYA">here</a>.</p>
+<hr/>
 
 <h2 id="general">General Information</h2>
 

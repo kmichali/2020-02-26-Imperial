@@ -6,7 +6,7 @@ address: "Sir Ernst Chain 310 (Chemistry), South Kensington campus"      # full 
 country: "GB"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "51.498152,-0.178368"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "February 26, February 27, March 4, March 5, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "four half-days: February 26, February 27, March 4, March 5, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "14:00 - 17:00 all days"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-10-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-10-11        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02

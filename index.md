@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "R for reproducible scientific analysis - Imperial College London"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Sir Ernst Chain 310 (Chemistry), South Kensington campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Sir Ernst Chain (Chemistry) 310 (February 26, March 5)and 311 (February 27, March 4), South Kensington campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "GB"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latitude: "51.498152"     # decimal latitude of workshop venue (use https://www.latlong.net/)
